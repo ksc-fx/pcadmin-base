@@ -8,7 +8,7 @@ npm install pcadmin-base
 ```javascript
 
 // 引用css
-// css中引用直接使用相对路径
+// @import '~pcadmin-base/lib/css/config.less';
 
 // 引用js
 import {date} from 'pcadmin-base';
